@@ -21,6 +21,7 @@ Design: [Smoking-Man](https://medium.com/inspiration-supply/funny-and-creative-4
 
 -   Github pages
 -   NO responsive design
+-   css `display:flex`
 
 ## 🧰 Getting Started
 
